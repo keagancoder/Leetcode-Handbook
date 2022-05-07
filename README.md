@@ -1,2 +1,5 @@
-# Leetcode-Handbook-
-Leetcode 简单刷题记录
+# Leetcode-Handbook
+此仓库始于2022年5.7日晚11点，上海隔离两个月，失业17天
+
+记录一下刷题思路和技巧，每日至少更新一题；与君共勉
+
